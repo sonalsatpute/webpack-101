@@ -22,3 +22,6 @@ webpack .\src\app.js .\dist\app.bundle.js -p //this will create the minified bun
 
 webpack .\src\app.js .\dist\bundle.app.js -p --watch //this will watch for any changes and create the bundle 
 
+#webpack config
+npm run dev // run the script from package.json
+
